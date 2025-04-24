@@ -1,0 +1,31 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\">   <img src=\"https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.gif\" alt=\"Simplefolio\" width=\"600px\" />   <br> </h2>",
+  "main": "index.html",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamraPatel17/portofolio.git"
+  },
+  "keywords": [],
+  "author": "Namra Patel",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NamraPatel17/portofolio/issues"
+  },
+  "homepage": "https://github.com/NamraPatel17/portofolio#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.5",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1",
+    "vanilla-tilt": "^1.8.1"
+  }
+}
